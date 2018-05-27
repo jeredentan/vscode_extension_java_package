@@ -39,14 +39,12 @@ class PackageDisplayerJava {
 
   public firstfunction() {
     vscode.workspace.onDidOpenTextDocument(doc => {
-<<<<<<< HEAD
       // let tree = new vscode.TreeItem("test");
       //console.log("lol");
       //console.log("changement1");
       console.log("changement 2");
-=======
+
       console.log("commit3");
->>>>>>> a22c8ce... commit 3
     });
   }
 }
