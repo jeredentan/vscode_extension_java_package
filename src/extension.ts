@@ -41,7 +41,8 @@ class PackageDisplayerJava {
     vscode.workspace.onDidOpenTextDocument(doc => {
       // let tree = new vscode.TreeItem("test");
       //console.log("lol");
-      console.log("changement1");
+      //console.log("changement1");
+      console.log("changement 2");
     });
   }
 }
