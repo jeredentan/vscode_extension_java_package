@@ -39,7 +39,7 @@ class PackageDisplayerJava {
 
   public firstfunction() {
     vscode.workspace.onDidOpenTextDocument(doc => {
-      console.log("commit1");
+      console.log("commit2");
     });
   }
 }
