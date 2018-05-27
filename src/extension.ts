@@ -52,6 +52,7 @@ class PackageDisplayerJava {
       console.log("commit5");
 
       console.log("commit1");
+      console.log("commit77");
     });
   }
 }
