@@ -41,10 +41,15 @@ class PackageDisplayerJava {
     vscode.workspace.onDidOpenTextDocument(doc => {
       // let tree = new vscode.TreeItem("test");
       //console.log("lol");
+<<<<<<< HEAD
       //console.log("changement1");
       console.log("changement 2");
 
       console.log("commit3");
+=======
+      console.log("changement1");
+      let x = "salut";
+>>>>>>> d351cbf... ajout d'une variable
     });
   }
 }
