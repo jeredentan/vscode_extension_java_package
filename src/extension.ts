@@ -42,9 +42,6 @@ class PackageDisplayerJava {
       // let tree = new vscode.TreeItem("test");
       //console.log("lol");
       console.log("changement1");
-      console.log("changementmmdmdmd");
-      console.log("changemen2K2D?NKJ3NFJ1");
-      console.log("hefvnehfvnehjfven");
     });
   }
 }
