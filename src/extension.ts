@@ -39,11 +39,7 @@ class PackageDisplayerJava {
 
   public firstfunction() {
     vscode.workspace.onDidOpenTextDocument(doc => {
-      // let tree = new vscode.TreeItem("test");
-      //console.log("lol");
-      console.log("changement1");
-      let x = "salut";
-      let y = "test";
+      console.log("commit1");
     });
   }
 }
