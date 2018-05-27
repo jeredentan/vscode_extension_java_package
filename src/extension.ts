@@ -43,6 +43,7 @@ class PackageDisplayerJava {
       //console.log("lol");
       console.log("changement1");
       let x = "salut";
+      let y = "test";
     });
   }
 }
